@@ -32,11 +32,11 @@ This portfolio is designed to demonstrate clinically relevant research competenc
 
 Planned flagship projects include:
 
-| Project area                      | Focus                              | Methods                                           |
-| --------------------------------- | ---------------------------------- | ------------------------------------------------- |
-| Psychometrics and assessment      | Mental-health measurement          | Reliability, validity, factor analysis            |
-| Emotion regulation and distress   | Psychopathology mechanisms         | Regression, moderation, visualisation             |
-| Dementia and caregiver wellbeing  | Neuropsychology / clinical ageing  | Clinical data analysis or evidence synthesis      |
+| Project area | Focus | Methods |
+|---|---|---|
+| Psychometrics and assessment | Mental-health measurement | Reliability, validity, factor analysis |
+| Emotion regulation and distress | Psychopathology mechanisms | Regression, moderation, visualisation |
+| Dementia and caregiver wellbeing | Neuropsychology / clinical ageing | Clinical data analysis or evidence synthesis |
 | Systematic review / meta-analysis | Clinical intervention or mechanism | PRISMA-style review, meta-analysis where feasible |
 
 ## Research experience
