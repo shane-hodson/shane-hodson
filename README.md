@@ -2,7 +2,7 @@
 
 BA Psychology student at Dublin City University
 
-Clinical psychology research portfolio | R, statistics, psychometrics, reproducible research
+Clinical psychology research portfolio: R, statistics, psychometrics, reproducible research
 
 My portfolio focuses on clinically relevant psychology research, with particular interests in psychological assessment, psychopathology, neuropsychology, dementia, mental-health services, and psychotherapy research.
 
