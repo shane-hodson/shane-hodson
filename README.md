@@ -2,7 +2,7 @@
 
 **BA Psychology Student | Dublin City University**
 
-I'm a psychology student interested in counselling psychology, psychotherapy research, emotion regulation and psychological assessment. My work combines research assistant experience with independent quantitative research using R.
+Psychology student interested in counselling psychology, psychotherapy research, emotion regulation and psychological assessment. Work combines research assistant experience with independent quantitative research using R.
 
 ## Research Experience
 
