@@ -16,11 +16,11 @@ Previously contributed to dementia and ageing research, including participant-fa
 
 ## Independent Research
 
-**PHQ-9 Psychometrics | NHANES 2017–March 2020**
+**[PHQ-9 Psychometrics](https://github.com/shane-hodson/phq9-nhanes-psychometrics) | NHANES 2017–March 2020**
 
-An independent R project examining the reliability and dimensionality of the PHQ-9, alongside associations between depressive symptoms and self-reported functional difficulty.
+Completed independent research project examining the reliability and dimensionality of the PHQ-9, alongside its association with self-reported functional difficulty.
 
-Statistical analysis completed. Final quality assurance underway before public release.
+The project includes survey-weighted analysis, ordinal factor modelling, regression analysis and a reproducible research report written in Quarto.
 
 ## Research Methods & Tools
 
